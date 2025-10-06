@@ -1,10 +1,10 @@
 # PEC
 
 ## Présentation
-Nom: Alban Segalen
-Né le: 17 Janvier 2008
-Habite à: Forel (Lavaux)
-Actuellement en CFC informatique en développement d'application avec maturité intégrée à l'ETML
+Nom: Alban Segalen<br>
+Né le: 17 Janvier 2008<br>
+Habite à: Forel (Lavaux)<br>
+Actuellement en CFC informatique en développement d'application avec maturité intégrée à l'ETML<br>
 Objectif de stage: Mettre en pratique les compétences apprises à l'ETML
 
 ## Modules
@@ -55,19 +55,20 @@ Objectif de stage: Mettre en pratique les compétences apprises à l'ETML
 ## Compétences techniques
 | Domaine | Compétence | Niveau | Preuves |
 | --- | --- | --- | --- |
-| Backend | javascript, adonis, nodejs, expressjs | Intermédiaire | Application Flashcards avec Adonis, Backend de site de lecture avec expressjs |
-| Frontend | vuejs, html, css, c#, windows forms, MAUI | Intermédiaire | Frontend d'un site de lecture en vuejs, Space invaders en windows forms, Application mobile pour lire des epubs avec MAUI |
-| Programmation | procédurale, orientée objet, fonctionnelle | Intermédiaire | Rendeur de monnaie en c#, Space invaders en c# |ou
-| Bases de données | mysql, mariadb, postgresql, mongodb, redis | Intermédiaire | Utilisation via les ORM sequelize et mongoose|
-| Cloud | azure | Débutant | Déploiement de VMs et conteneur |
-| Méthodologie | scrum | Intermédiaire | Réalisation d'un projet en équipe de 7 personnes |
-| Conteneurisation | docker | Intermédiaire | dockerisation d'une application Adonis |
+| Backend | Javascript, Adonis, NodeJS, Expressjs | Intermédiaire | Application Flashcards avec Adonis, Backend de site de lecture avec Expressjs |
+| Frontend | VuejJS html, css, c#, windows forms, MAUI | Intermédiaire | Frontend d'un site de lecture en VuejJS, Space invaders en windows forms, Application mobile pour lire des epubs avec MAUI |
+| Programmation | procédurale, orientée objet, fonctionnelle | Intermédiaire | Rendeur de monnaie en c#, Space invaders en c# |
+| Bases de données | Mysql, Mariadb, Postgresql, Mongodb, Redis | Intermédiaire | Utilisation via les ORM sequelize et mongoose|
+| Cloud | Azure | Débutant | Déploiement de VMs et conteneur |
+| Méthodologie | Scrum | Intermédiaire | Réalisation d'un projet en équipe de 7 personnes |
+| Conteneurisation | Docker | Intermédiaire | dockerisation d'une application Adonis |
 | Système | Gestion de serveur | Débutant | Installation de windows server, installation de serveurs DHCP et DNS |
 | Bureautique | Word, Excel, Teams, Outlook, Markdown | Intermédiaire | Rédaction de rapports
 | Kanban | Github Project | Intermédiaire | Planification et suivi de mes projets |
 | | git | Intermédiaire | Versionning de mes projets [github](https://github.com/ASETML) |
-| | montage de PC | Intermédiaire | Réparation d'un PC de récupération |
-| | proxmox | Débutant | Installation de Proxmox sur un PC de récupération et installation de VM Windows 11|
+| | UX | Débutant | Maquettes du space invaders |
+| | Montage de PC | Intermédiaire | Réparation d'un PC de récupération |
+| | Proxmox | Débutant | Installation de Proxmox sur un PC de récupération et installation de VM Windows 11|
 
 ## Langues
 | Langue | Niveau
@@ -80,8 +81,10 @@ Objectif de stage: Mettre en pratique les compétences apprises à l'ETML
 - 7 ans de unihockey en club
 	- travail d'équipe
 - vente de boisson à la buvette du club lors des match
+	- responsabilité
 - stage de 7 jours en informatique
 	- Réalisation d'une pointeuse en javascript
+
 ### A l'ETML
 - [Frontend et backend passion lecture](https://github.com/ASETML/P_Web295)
   - Réalisation d'une API REST avec express et NodeJS
@@ -101,5 +104,7 @@ Objectif de stage: Mettre en pratique les compétences apprises à l'ETML
 
 - [Site web Unesco](https://github.com/ASETML/P_GestProj426)
 	- Application qui affiche les différents site de l'unesco sur un globe
+	- Api en javascript et NodeJS
+	- Frontend en VueJS
 	- Réalisé en équipe de 7 personnes en appliquant la méthodologie Scrum
 	- Gestion de conflits, Communication, Travail en équipe, Ecoute, Prise de décision
